@@ -1,1 +1,0 @@
-# firebase-google-authentication
